@@ -1,6 +1,6 @@
 ### Oi, eu sou o Eric.
 
-Sou formado em Engenharia Civil e estudante de Desenvolvimento Web.
+Sou Desenvolvedor Web e Engenheiro Civil.
 
 Após alguns anos de experiência profissional na área das Telecomunicações e da Engenharia Civil, decidi fazer uma transição de carreira e voltei a estudar em 2021. Sempre gostei dos assuntos relacionados à tecnologia e optei fazer o curso de Desenvolvedor Full Stack da Trybe, atualmente terminei o módulo de Front End e estou no módulo de Back End.
 
@@ -11,6 +11,7 @@ Até aqui pude aprender, aplicar e desenvolver as seguintes habilidades:
 • JavaScript <br />
 • Jest / RTL <br />
 • React (Classes / Hooks / Redux) <br />
+• Node.js / Express <br />
 • Metodologias Ágeis <br />
 • Soft Skills <br />
 
